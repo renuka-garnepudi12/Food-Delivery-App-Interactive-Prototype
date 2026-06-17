@@ -108,7 +108,7 @@ The prototype was tested with three users.
 
 ## Home Screen
 
-![Home Screen](./screenshots/home.png)
+![Home Screen](./home.png)
 
 ---
 
