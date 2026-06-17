@@ -102,7 +102,7 @@ The prototype was tested with three users.
 
 ## Login Screen
 
-![Login Screen](./screenshots/login.png)
+![Login Screen](./login.png)
 
 ---
 
@@ -114,19 +114,19 @@ The prototype was tested with three users.
 
 ## Food Details Screen
 
-![Food Details](./screenshots/food-details.png)
+![Food Details](./food-details.png)
 
 ---
 
 ## Cart Screen
 
-![Cart Screen](./screenshots/cart.png)
+![Cart Screen](./cart.png)
 
 ---
 
 ## Order Success Screen
 
-![Order Success](./screenshots/success.png)
+![Order Success](./success.png)
 
 ---
 
