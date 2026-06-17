@@ -122,31 +122,31 @@ The prototype was tested with **3 users** to evaluate usability and navigation.
 
 ### Login Screen
 
-![Login](screenshots/login.png)
+![login](screenshots/login.png)
 
 ---
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![home](screenshots/home.png)
 
 ---
 
 ### Food Details Screen
 
-![Food Details](screenshots/food-details.png)
+![food-details](screenshots/food-details.png)
 
 ---
 
 ### Cart Screen
 
-![Cart](screenshots/cart.png)
+![cart](screenshots/cart.png)
 
 ---
 
 ### Order Success Screen
 
-![Success](screenshots/success.png)
+![success](screenshots/success.png)
 
 ---
 
