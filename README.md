@@ -2,28 +2,28 @@
 
 ## 📌 Project Overview
 
-The **Food Delivery App – Interactive Prototype** is a UI/UX design project created in **Figma**. This project demonstrates a complete food ordering experience through a clickable prototype. Users can navigate between screens, view food details, add items to the cart, and complete an order successfully.
+The Food Delivery App – Interactive Prototype is a UI/UX design project created in Figma. This prototype simulates a complete food ordering experience with interactive navigation between screens.
 
 ---
 
 ## 🎯 Objective
 
-- Convert wireframes into an interactive prototype.
-- Create a smooth and realistic user flow.
-- Add navigation and screen transitions.
-- Conduct user testing and improve the design based on feedback.
+* Convert wireframes into an interactive prototype.
+* Create smooth navigation between screens.
+* Simulate real application interactions.
+* Improve the design based on user feedback.
 
 ---
 
-## 🛠️ Tool Used
+## 🛠 Tool Used
 
-- Figma
+* Figma
 
 ---
 
 ## 🔗 Interactive Prototype
 
-**View the Interactive Prototype:**
+**Figma Prototype:**
 
 https://www.figma.com/proto/qfpxJ2BXLrCz61ChvDPdjA/Food-Delivery-App-Wireframe?node-id=0-1&t=8wqnRBHIsqRLa1Bx-1
 
@@ -31,143 +31,108 @@ https://www.figma.com/proto/qfpxJ2BXLrCz61ChvDPdjA/Food-Delivery-App-Wireframe?n
 
 ## 📱 Screens
 
-- Login Screen
-- Home Screen
-- Food Details Screen
-- Cart Screen
-- Order Success Screen
+* Login Screen
+* Home Screen
+* Food Details Screen
+* Cart Screen
+* Order Success Screen
 
 ---
 
 ## ✨ Features
 
-- Clickable Interactive Prototype
-- User-Friendly Navigation
-- Smart Screen Transitions
-- Food Details View
-- Quantity Selector
-- Add to Cart Functionality
-- Order Success Confirmation
-- Continue Shopping Navigation
+* Clickable Interactive Prototype
+* Smooth Navigation Flow
+* Smart Animate Transitions
+* Food Details Page
+* Quantity Selector
+* Add to Cart Flow
+* Order Success Screen
+* Continue Shopping Navigation
 
 ---
 
 ## 🔄 User Flow
 
-Login
-
-⬇️
-
-Home
-
-⬇️
-
-Food Details
-
-⬇️
-
-Cart
-
-⬇️
-
-Order Success
-
-⬇️
-
-Home
+Login → Home → Food Details → Cart → Order Success → Home
 
 ---
 
 ## 🧪 User Testing
 
-The prototype was tested with **3 users** to evaluate usability and navigation.
+The prototype was tested with three users.
 
-### Tasks Given
+### User Tasks
 
-- Login to the application
-- Browse food items
-- View food details
-- Add an item to the cart
-- Complete the order
+* Login to the application
+* Browse food items
+* View food details
+* Add an item to the cart
+* Complete the order
 
 ### Feedback Received
 
-- The Login button was too far from the input fields.
-- A quantity selector was expected on the Food Details screen.
-- Restaurant information needed better organization.
-- The Cart screen required clearer order details.
+* Login button was too far from the input fields.
+* Quantity selector was missing.
+* Restaurant information needed better organization.
+* Cart page required clearer order details.
 
 ### Improvements Made
 
-- Moved the Login button closer to the input fields.
-- Added a quantity selector.
-- Improved the restaurant card layout.
-- Added an Order Success screen.
-- Improved spacing and navigation between screens.
+* Moved the Login button closer to the input fields.
+* Added a quantity selector.
+* Improved the restaurant card layout.
+* Added an Order Success screen.
+* Improved spacing and navigation.
 
 ---
 
 ## 📚 Learning Outcomes
 
-- Interactive Prototyping
-- Navigation Flow Design
-- Smart Animate
-- User Testing
-- User Experience Improvement
-- Figma Prototyping
+* Interactive Prototyping
+* Navigation Design
+* Smart Animate
+* User Testing
+* UI/UX Improvements
+* Figma Prototyping
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Login Screen
+## Login Screen
 
-![login](screenshots/login.png)
-
----
-
-### Home Screen
-
-![home](screenshots/home.png)
+![Login Screen](./screenshots/login.png)
 
 ---
 
-### Food Details Screen
+## Home Screen
 
-![food-details](screenshots/food-details.png)
-
----
-
-### Cart Screen
-
-![cart](screenshots/cart.png)
+![Home Screen](./screenshots/home.png)
 
 ---
 
-### Order Success Screen
+## Food Details Screen
 
-![success](screenshots/success.png)
+![Food Details](./screenshots/food-details.png)
 
 ---
 
-## 📂 Project Structure
+## Cart Screen
 
-```
-Food-Delivery-App-Interactive-Prototype/
-│── README.md
-│── screenshots/
-│     ├── login.png
-│     ├── home.png
-│     ├── food-details.png
-│     ├── cart.png
-│     └── success.png
-```
+![Cart Screen](./screenshots/cart.png)
+
+---
+
+## Order Success Screen
+
+![Order Success](./screenshots/success.png)
 
 ---
 
 ## 🎯 Project Outcome
 
-Successfully designed and developed an interactive prototype that simulates a real food delivery application. The prototype provides a smooth navigation experience, incorporates user feedback, and demonstrates essential UI/UX design principles.
+Successfully created an interactive food delivery app prototype with smooth navigation, improved usability, and a user-friendly ordering experience.
 
 ---
 
@@ -176,4 +141,5 @@ Successfully designed and developed an interactive prototype that simulates a re
 **Renuka Garnepudi**
 
 **UI/UX Design Intern**
+
 
